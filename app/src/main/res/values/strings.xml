@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">tic tac toe</string>
+    <string name="btn_text1">player vs phone</string>
+    <string name="btn_text2">player vs player</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="msg_exit">Are you sure you want to exit?</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
+    <string name="btn_reset">reset game</string>
+    <string name="text_winner">WINNER</string>
+    <string name="text_draw">DRAW</string>
+    <string name="first_human">You go first</string>
+    <string name="turn_human">Your turn</string>
+    <string name="turn_computer">Android turn</string>
+    <string name="result_tie">It\'s a tie</string>
+    <string name="result_human_wins">You Won!!</string>
+    <string name="result_android_wins">Android Won!!</string>
+    
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    
+    <string name="human">Human :</string>
+    <string name="ties">Ties :</string>
+    <string name="android">Android :</string>
+    <string name="info">Player vs Computer Game</string>
+
+
+    <string name="game_name">Tic Tac Toe Game</string>
+    <string name="play_button_text">Play</string>
+    <string name="ask_player1name_text">Enter the name of Player 1:</string>
+    <string name="player1name_text_hint">Player 1</string>
+    <string name="ask_player2name_text">Enter the name of Player 2:</string>
+    <string name="player2name_text_hint">Player 2</string>
+    <string name="ask_numofgames_text">Enter the number of games:</string>
+    <string name="number_of_games_hint">Number of games</string>
+    <string name="playernames_submit_button">Done</string>
+    <string name="default_player_turn_text">Player 1\'s turn (X)</string>
+    <string name="restart_game_button_text">Restart Game</string>
+    <string name="restart_match_button_text">Restart Match</string>
+    <string name="blank_string" />
+    <string name="player_2_default_name">Player 2</string>
+    <string name="player_1_default_name">Player 1</string>
+    <string name="initial_games_played_0">0</string>
+    <string name="bar_demarcate_scores">|</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="result_text">Result</string>
+    <string name="default_max_games">999</string>
+    <string name="default_min_games">1</string>
+    <string name="x_turn">\'s turn (X)</string>
+    <string name="o_turn">\'s turn (O)</string>
+    
+
+</resources>
